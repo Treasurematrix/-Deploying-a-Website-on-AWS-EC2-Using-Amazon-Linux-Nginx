@@ -1,0 +1,2 @@
+# -Deploying-a-Website-on-AWS-EC2-Using-Amazon-Linux-Nginx
+A Complete Setup Guide With Real-World Troubleshooting  This project documents the full process of deploying a production-ready website on an AWS EC2 instance using Amazon Linux and Nginx. It also includes the exact errors I encountered during deployment and how I fixed them, making this repository valuable for anyone new to cloud deployment.
