@@ -128,6 +128,10 @@ Visit in browser:
 http://your-ec2-public-ip
 ```
 
+
+![EC2 Instance Running](./screenshots/instance-running.png)
+![Nginx Active](./screenshots/nginx-active.png)
+![Website Output](./screenshots/webpage-output.png)
 ---
 
 # 🔥 Troubleshooting & Errors Encountered
