@@ -129,9 +129,10 @@ http://your-ec2-public-ip
 ```
 
 
-!Website on AWS EC2 Using Amazon Linux & Nginx screenshots/Screenshot (454).png
-![Nginx Active](./screenshots/nginx-active.png)
-![Website Output](./screenshots/webpage-output.png)
+![EC2 Instance Running](Website on AWS EC2 Using Amazon Linux & Nginx screenshots/Screenshot (454).png)
+![Nginx Active](Website on AWS EC2 Using Amazon Linux & Nginx screenshots/Screenshot (461).png)
+![Website Output](Website on AWS EC2 Using Amazon Linux & Nginx screenshots/Screenshot (463).png)
+
 ---
 
 # 🔥 Troubleshooting & Errors Encountered
@@ -148,6 +149,7 @@ This is the real value of the project — the actual errors you encountered and 
 Job for nginx.service failed because the control process exited with error code.
 See "systemctl status nginx.service" and "journalctl -xeu nginx.service".
 ```
+![Nginx failed to start](Website on AWS EC2 Using Amazon Linux & Nginx screenshots/Screenshot (466).png)
 
 ### ✔ FIX
 
