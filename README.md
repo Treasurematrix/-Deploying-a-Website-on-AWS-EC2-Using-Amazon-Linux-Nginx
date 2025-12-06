@@ -129,7 +129,7 @@ http://your-ec2-public-ip
 ```
 
 
-![EC2 Instance Running](./screenshots/instance-running.png)
+![EC2 Instance Running](Website on AWS EC2 Using Amazon Linux & Nginx screenshots/Screenshot (454).png)
 ![Nginx Active](./screenshots/nginx-active.png)
 ![Website Output](./screenshots/webpage-output.png)
 ---
